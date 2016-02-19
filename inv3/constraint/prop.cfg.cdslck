@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      dyerlan
+HostName                       ece-gui-001.ece.cmu.edu
+ProcessIdentifier              18804
+ProcessCreationTime_UTC        1446227520
+ProcessCreationTime_Readable   Fri Oct 30 13:52:00 2015 EDT
+AppIdentifier                  /usr/cds/ic-6.15.503.615/tools/dfII/bin/32bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /afs/ece.cmu.edu/usr/dyerlan/Private/18320/ece320/lab6/inv3/constraint/prop.cfg
+TimeEditLocked                 Fri Oct 30 16:46:33 2015 EDT

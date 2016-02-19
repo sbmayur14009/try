@@ -1,0 +1,16 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Fri Oct 30 15:26:58 2015 
+Best design point: 1
+Design specs: 
+	lab6:inv1-testbench:1	corner	Default - 
+	delay(?wf1 VT("/net1") ?value1 0.6 ?edge1 "either" ?nth1 1 ?td1 0.0 ?wf2 VT("/net2") ?value2 0.6 ?edge2 "either" ?nth2 1 ?td2 0.0 ?stop nil ?multiple nil)		528.3z
+Design parameters: 
+	beta		2.5
+	lambda		50n
+
+Interactive.0
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.0 completed. 
+Current time: Fri Oct 30 15:27:10 2015 
